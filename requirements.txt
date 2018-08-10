@@ -27,7 +27,7 @@
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==2.2.2
-numpy==1.14.3
+numpy==1.14.5
 pandas==0.22.0
 scipy==1.1.0
 
@@ -45,8 +45,8 @@ scikit-learn==0.19.1
 # you need a GPU card with CUDA Compute Capability 3.0 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
-tensorflow==1.9.0
-#tensorflow-gpu==1.9.0
+tensorflow==1.10.0
+#tensorflow-gpu==1.10.0
 
 # Forcing bleach to 1.5 to avoid version incompatibility when installing
 # TensorBoard.
