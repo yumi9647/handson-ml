@@ -3,7 +3,7 @@
 
 이 깃허브는 [핸즈온 머신러닝(사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무)](http://www.hanbit.co.kr/store/books/look.php?p_code=B9267655530)에 포함된 예제 코드와 연습문제 해답을 가지고 있습니다:
 
->(옮긴이)이 깃허브는 사이킷런 0.19.1, 텐서플로 1.7, 1.8, 1.9, 1.10 그리고 OpenAI gym 0.10.5에서 테스트되었습니다.
+>(옮긴이)이 깃허브는 사이킷런 0.19.1,0.20.0 텐서플로 1.7, 1.8, 1.9, 1.10, 1.11 그리고 OpenAI gym 0.10.5에서 테스트되었습니다.
 
 [![book](http://www.hanbit.co.kr/data/books/B9267655530_l.jpg)](http://www.hanbit.co.kr/store/books/look.php?p_code=B9267655530)
 
