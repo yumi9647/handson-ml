@@ -113,6 +113,10 @@ pip를 사용해 필요한 라이브러리를 설치하려면 터미널에 직�
 
     $ source ./env/bin/activate
 
+윈도우 사용사는 다음 명령을 실행하세요.
+
+    $ .\env\Scripts\activate
+
 다음에 pip를 사용하여 필요한 파이썬 패키지를 설치합니다. virtualenv를 사용하지 않는다면 `--user` 옵션을 사용하세요(또는 시스템 경로에 설치할 수도 있지만 아마도 관리자 권한이 필요할 것 입니다. 가령, 리눅스에서는 `pip3` 대신 `sudo pip3`를 사용합니다).
 
     $ pip3 install --upgrade -r requirements.txt
