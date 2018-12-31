@@ -1,5 +1,6 @@
 name: handson-ml
 dependencies:
+  - python=3.6
   - scikit-learn
   - matplotlib
   - jupyter
