@@ -9,7 +9,7 @@ dependencies:
   - nltk
   - pip:
     - tensorflow
-    - gym[all]
+    - gym
     - graphviz
     - watermark
     - urlextract
